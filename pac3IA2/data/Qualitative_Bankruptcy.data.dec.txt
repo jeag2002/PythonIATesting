@@ -1,0 +1,9 @@
+P,P,A,A,A,P,NB
+N,N,A,A,A,N,NB
+A,A,A,A,A,A,NB
+P,P,P,P,P,P,NB
+N,N,P,P,P,N,B
+A,A,P,P,P,A,B
+P,P,A,P,P,P,B
+P,P,P,A,A,P,B
+P,P,A,P,A,P,B
